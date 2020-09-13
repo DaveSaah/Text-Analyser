@@ -1,0 +1,4 @@
+source file: Text Analyzer.py
+
+This code is designed to run a character analysis on text files right in your terminal. Just enter the file name and press enter to see the stats.
+Thank you.
